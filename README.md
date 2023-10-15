@@ -1,6 +1,11 @@
 # C# Exmaple bot.
 
-This is an example Discord bot using Dicsord.net, Microsoft.Extensions.DependencyInjection, Microsoft.Extensions.Configuration, Microsoft.Extensions.Hosting, Microsoft.Extensions.Logging and entity framework core
+This is an example Discord bot using 
+- Dicsord.net, Microsoft.Extensions.DependencyInjection
+- Microsoft.Extensions.Configuration
+- Microsoft.Extensions.Hosting
+- Microsoft.Extensions.Logging
+- entity framework core
 
 The bot expects a token in one of the Iconfiguration soures
  - /config.json
